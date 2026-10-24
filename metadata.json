@@ -1,0 +1,6 @@
+{
+  "name": "OmniSocial",
+  "description": "All-in-one private social hub with tabbed access to WhatsApp, Instagram, Facebook, and Messenger, featuring secure PIN lock, notification manager, customizable dark themes, and offline productivity dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
